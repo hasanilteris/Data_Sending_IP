@@ -1,2 +1,2 @@
 # IP-data-sending
-Ip üzerinden bir cihazdan başka bir cihaza veri gönderimi
+## Ip üzerinden mac to mac veri aktarımı çalışması
