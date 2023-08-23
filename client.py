@@ -7,6 +7,7 @@ client_socket.connect((host_ip,port))
 data = b""
 payload_size = struct.calcsize("Q")
 while True:
+	
 	while len(data) < payload_size:
 		packet = client_socket.recv(4*1024)
 		if not packet: break
