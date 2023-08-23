@@ -4,7 +4,6 @@ server_socket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 host_ip = '10.194.36.184'
 port = 9999
 socket_address = (host_ip,port)
-
 server_socket.bind(socket_address)
 
 server_socket.listen(5)
