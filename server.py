@@ -5,7 +5,6 @@ host_ip = '10.194.36.184'
 port = 9999
 socket_address = (host_ip,port)
 server_socket.bind(socket_address)
-
 server_socket.listen(5)
 print("LISTENING AT:",socket_address)
 
