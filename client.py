@@ -1,5 +1,6 @@
 import socket,cv2, pickle,struct
 
+
 client_socket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 host_ip = '192.168.2.178'
 port = 4000
