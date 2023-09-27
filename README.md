@@ -1,2 +1,2 @@
-# IP-data-sending
-#### Ip üzerinden mac to mac veri aktarımı çalışması
+## Real Time Data Sending with IP
+#### Real-time data transmission over IP using the socket library.
